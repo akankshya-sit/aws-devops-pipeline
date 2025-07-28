@@ -34,6 +34,7 @@ variable "bucket_name" {
   default     = "dvscops-artifact-bucket"
 }
 
+
 variable "ami_id" {
   default = "ami-083e865b97bdf1c1b" # Amazon Linux 2023
 }
