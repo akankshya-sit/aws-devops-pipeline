@@ -12,8 +12,6 @@ Artifact Store: Amazon S3
 
 Deployment Target: EC2 Instances
 
-Optional Add-ons: Trivy, Checkov, SonarQube, CloudWatch
-
 📂 Project Structure
 bash
 Copy
