@@ -454,6 +454,7 @@ resource "aws_codepipeline" "pipeline" {
     type     = "S3"
   }
 
+
   stage {
     name = "Source"
     action {
